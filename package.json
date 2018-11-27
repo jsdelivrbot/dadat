@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "0.0.1",
+  "description": "this is my firsto application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"node\"",
+    "\"express\"",
+    "\"thepiratebay\"",
+    "\"static\"]"
+  ],
+  "author": "eviljk",
+   "license":"ISC",
+  "engines": {
+    "node": "10.13.0"
+  }
+ 
+  "dependencies": {
+    "express": "^4.16.4",
+    "thepiratebay": "^1.4.7"
+  }
+}
